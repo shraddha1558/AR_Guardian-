@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 05fda2f7ad98fca4d82b6b07e287456e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - modelAsset: {fileID: 5022602860645237092, guid: a7c50d3e23090604db32cc6e64d2296b, type: 3}
+  - webcamHandler: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
